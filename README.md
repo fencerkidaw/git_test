@@ -1,0 +1,1 @@
+This is Fencer's first git project!
